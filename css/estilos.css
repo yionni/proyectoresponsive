@@ -1,0 +1,32 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@400;600;700&display=swap');
+
+
+*{
+  
+    font-family: 'Belanosima', sans-serif;
+    background-image: url("../imagenes/odonto-background.jpg");
+}
+body{
+    
+}
+.texto-inicial{
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.logo-odonto{
+    height: 80px;
+}
+
+.imagen-banner{
+    width: 100%;
+    text-align: center;
+}
+.background{
+    height: 300px;
+    width: 100%;
+    
+}
