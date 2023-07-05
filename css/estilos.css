@@ -110,3 +110,14 @@ form button{
     width: 80%;
     border-radius: 2%;
 }
+.titulo-sobre{
+    text-align: center;
+    padding: 25px;
+}
+.video-sobre{
+    text-align: center;
+    padding: 25px;
+    width: 70%;
+    height: 490px;
+}
+
