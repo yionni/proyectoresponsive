@@ -94,13 +94,19 @@ form button{
     height: 30px;
     width: 50px;
     margin-top: 10px;
+    padding-bottom: 25px;
 }
-
+.horarios{
+    text-align: center;
+    padding: 25px;
+    padding-top: 20px;
+}
 .map{
     text-align: center;
     margin-top: 50px;
 }
 .map iframe{
+    padding: 25px;
     width: 80%;
     border-radius: 2%;
 }
