@@ -50,6 +50,15 @@ p {
     padding: 25px;
     font-size: 60px;
 }
+.video-inicial{
+    text-align: center;
+    font-size: 35px;
+    padding: 5px;
+}
+
+.video-inicial p {
+    padding: 25px;
+}
 .cards-galeria {
   width: 100%;
   display: flex;
