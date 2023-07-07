@@ -41,6 +41,18 @@ p {
   border-radius: 20px;
   text-align: center;
 }
+.texto-encima{
+  position: absolute;
+  top: 489px;
+  left: 1250px;
+  transform: translate(-50%, -50%);
+}
+
+.logo-wsp{
+  width: 140px;
+  height: 135px;
+}
+
 .texto-intro{
     text-align: center;
     padding: 25px;
@@ -69,7 +81,7 @@ p {
 .cajas-container {
   padding: 10px;
   margin: auto;
-  -border-style: double;
+  
   width: 360px;
   height: 350px;
 }
