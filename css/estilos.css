@@ -107,6 +107,12 @@ footer {
 .contact div {
   display: inherit;
 }
+::placeholder {
+  font-size: 1em;
+  color: #a6c8f7;
+  margin-left: 0.5em;
+}
+
 
 form label {
   display: block;
@@ -116,10 +122,15 @@ form label {
 form input {
   height: 30px;
   width: 300px;
+  padding-left: 0.5em;
+  color: #a6c8f7;
 }
 
 form textarea {
   width: 300px;
+  padding-left: 0.5em;
+  color: #a6c8f7;
+  padding-top: 0.5em;
 }
 
 form button {
@@ -127,6 +138,8 @@ form button {
   width: 50px;
   margin-top: 10px;
   padding-bottom: 25px;
+  color: #8db5ec;
+  border-radius: 10px;
 }
 .horarios {
   text-align: center;
