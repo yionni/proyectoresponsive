@@ -66,6 +66,12 @@ p {
     text-align: center;
     font-size: 35px;
     padding: 5px;
+    transition: background-color .5s;
+    border-radius: 20px;
+}
+.video-inicial:hover{
+  color:aliceblue;
+  background-color: #8db5ec;
 }
 
 .video-inicial p {
@@ -149,6 +155,12 @@ form button {
 .map {
   text-align: center;
   margin-top: 50px;
+  transition: background-color .5s;
+  border-radius: 10px;
+}
+.map:hover{
+  color:aliceblue;
+  background-color: #8db5ec;
 }
 .map iframe {
   padding: 25px;
@@ -164,4 +176,10 @@ form button {
   padding: 25px;
   width: 70%;
   height: 490px;
+  transition: background-color .5s;
+  border-radius: 20px;
+}
+.video-sobre:hover{
+  color:aliceblue;
+  background-color: #8db5ec;
 }
